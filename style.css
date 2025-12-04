@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: green;
+    color:white;
+    background-size: cover;
+    font-weight: bold ;
+}
+h1{
+    color: goldenrod;
+}
+#me{
+    font-size: larger;
+}
+button{
+    font-weight: bold;
+    color:green;
+    background: goldenrod;
+    width:150px;
+    margin-bottom: 20px;
+}
